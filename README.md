@@ -8,7 +8,7 @@ I recently graduated with a Bachelor's degree in Information and Communication T
 
 * 🌍  I'm based in ไทย
 * ✉️  You can contact me at [piyalak.nn@gmail.com](mailto:piyalak.nn@gmail.com)
-* 🧠  I'm learning React.js, TypeScript and Next.js
+* 🧠  I'm learning React.js
 
 ### Skills
 
